@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Responsive Web Design",
+    "description": "Vivamus malesuada iaculis nibh, eu molestie orci aliquam nec. Suspendisse fermentum mauris eu enim efficitur, in dignissim massa egestas. Maecenas mollis tellus ante, vitae congue leo accumsan id. Quisque vel viverra tortor. Duis sed urna tincidunt, pharetra sem sit amet, interdum lorem.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Cool Web Applications",
+    "description": "Vivamus malesuada iaculis nibh, eu molestie orci aliquam nec. Suspendisse fermentum mauris eu enim efficitur, in dignissim massa egestas. Maecenas mollis tellus ante, vitae congue leo accumsan id. Quisque vel viverra tortor. Duis sed urna tincidunt, pharetra sem sit amet, interdum lorem.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "Internet Marketing",
+    "description": "Vivamus malesuada iaculis nibh, eu molestie orci aliquam nec. Suspendisse fermentum mauris eu enim efficitur, in dignissim massa egestas. Maecenas mollis tellus ante, vitae congue leo accumsan id. Quisque vel viverra tortor. Duis sed urna tincidunt, pharetra sem sit amet, interdum lorem.",
+    "image": "computer-icon.png"
+  }
+]
