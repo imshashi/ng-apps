@@ -1,7 +1,8 @@
 logs/*
 !.gitkeep
 template-store/node_modules/
-template-store/bower_components/
+template-store/app/bower_components/
 template-store/tmp
 template-store/.DS_Store
 template-store/.idea
+template-store/app/img
