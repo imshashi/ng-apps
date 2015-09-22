@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Template 1",
+    "description": "aksfh kjashf kashf kasfhask fhskajhgsiduhgiush gifjdsh sidkbfkas lorem ipsinmas askn vunasd shashi kashyakn ajshd asklas ravi singh puish jain surenddar siung goud raghbenda nayak dharmendra naytak",
+    "type": "html5",
+    "price": 19.99,
+    "images": [
+      {
+        "name": "template-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Template 2",
+    "description": "aksfh kjashf kashf kasfhask fhskajhgsiduhgiush gifjdsh sidkbfkas lorem ipsinmas askn vunasd shashi kashyakn ajshd asklas ravi singh puish jain surenddar siung goud raghbenda nayak dharmendra naytak",
+    "type": "html5",
+    "price": 14.49,
+    "images": [
+      {
+        "name": "template-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Template 3",
+    "description": "iduhgiush gifjdsh asdh asfjkh asfj wepo nd poxm;plsdf jasf qwpasn asdjausdn sdlkjg weoiv sidkbfkas lorem ipsinmas askn vunasd shashi kashyakn ajshd asklas ravi singh puish jain surenddar siung goud raghbenda nayak dharmendra naytak",
+    "type": "html5",
+    "price": 9.99,
+    "images": [
+      {
+        "name": "template-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Template 4",
+    "description": "gifjdsh sidkbfkas lorem ipsinmas askn vunasd shashi kashyakn ajshd asklas ravi singh puish jain surenddar siung goud raghbenda nayak dharmendra naytak",
+    "type": "html5",
+    "price": 15.99,
+    "images": [
+      {
+        "name": "template-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Template 5",
+    "description": "aksfh kjashf kashf sidkbfkas lorem ipsinmas askn vunasd shashi kashyakn ajshd asklas ravi singh puish jain surenddar siung goud raghbenda nayak dharmendra naytak",
+    "type": "html5",
+    "price": 20.99,
+    "images": [
+      {
+        "name": "template-5.jpg"
+      }
+    ]
+  }
+]
